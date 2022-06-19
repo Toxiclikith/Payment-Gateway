@@ -7,7 +7,7 @@ A simple webpage showing the integration of a payment gateway.
 Stack used - 
 HTML, CSS, Bootstrap & Javascript 
 
-Here is the live demo of the site : https://akash-ping.github.io/Payment-Gateway.github.io/
+Here is the live demo of the site : https://62af41886fa84c5fdb584275--lovely-tapioca-adbe1a.netlify.app/
 
 This is the screenshot of the home page :
 
