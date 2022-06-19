@@ -11,6 +11,5 @@ Here is the live demo of the site : https://62af41886fa84c5fdb584275--lovely-tap
 
 This is the screenshot of the home page :
 
-![Screenshot (605)](https://user-images.githubusercontent.com/103444049/173177925-e45ead31-e9a9-41d3-b2b3-006e96489bf7.png)
-
+![Screenshot (82)](https://user-images.githubusercontent.com/75122082/174490910-9ff2d2c5-f4de-469e-98b0-bda813a69e27.png)
 
